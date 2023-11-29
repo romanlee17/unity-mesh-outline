@@ -1,0 +1,18 @@
+{
+    "name": "romanlee17.MeshOutlineEditor",
+    "rootNamespace": "romanlee17.MeshOutlineEditor",
+    "references": [
+        "GUID:4b153e52b3924e547879b3c193b6f29f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
